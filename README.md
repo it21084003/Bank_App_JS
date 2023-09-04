@@ -2,7 +2,6 @@
 
 link here- https://it21084003.github.io/Bank_App_JS/
 
-login 
       user - js
       pin  - 1111
 
